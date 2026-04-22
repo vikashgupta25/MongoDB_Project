@@ -6,7 +6,8 @@
 Name: Vikash Gupta
 Class: MCADS11
 Roll No: 1250259069
-📂 Project Overview
+
+**📂 Project Overview**
 
 This project demonstrates the use of MongoDB (NoSQL Database) concepts including:
 
@@ -79,7 +80,9 @@ Subject marks
 Faculty-wise student listing
 Average marks per student
 Most popular activity type
-🛠️ Technologies Used
+
+**🛠️ Technologies Used**
+
 MongoDB
 MongoDB Compass
 JSON
