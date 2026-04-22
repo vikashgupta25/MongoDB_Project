@@ -1,6 +1,8 @@
 
-📘 # MongoDB_Project
-👤 Student Details
+# MongoDB_Project
+
+**👤 Student Details**
+
 Name: Vikash Gupta
 Class: MCADS11
 Roll No: 1250259069
@@ -13,7 +15,9 @@ Aggregation framework
 Joins using $lookup
 Complex queries with filters and projections
 Array and nested document handling
-🗃️ Database Structure
+
+**🗃️ Database Structure**
+
 Database Name:
 Mongo_assignment
 Collections Used:
@@ -22,7 +26,9 @@ faculty
 courses
 enrollments
 activities
-⚙️ Setup Instructions
+
+**⚙️ Setup Instructions**
+
 Step 1: Connect MongoDB Compass
 Open MongoDB Compass
 Use connection string:
@@ -40,7 +46,9 @@ Expand to view collections
 Step 4: Insert Data
 Click Add Data → Insert Document
 Add JSON documents for each collection
-🧠 Assignment Tasks Covered
+
+**🧠 Assignment Tasks Covered**
+
 🔍 1. Complex Filters & Projections
 Filter students based on:
 Attendance > 85%
@@ -75,14 +83,16 @@ Most popular activity type
 MongoDB
 MongoDB Compass
 JSON
-📈 Learning Outcomes
 
+**📈 Learning Outcomes
+**
 After completing this assignment, you will understand:
 
 How NoSQL databases work
 Data modeling in MongoDB
 Aggregation pipelines
 Real-world query building
-✅ Conclusion
+
+**✅ Conclusion**
 
 This assignment provides hands-on experience with MongoDB and prepares you for real-world database operations, especially in modern web and data-driven applications.
